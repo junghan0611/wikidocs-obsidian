@@ -1,0 +1,5 @@
+{
+  "format": "YYYYMMDDTHHmmss--\\n\\o\\n\\a\\m\\e__\\b\\i\\b",
+  "template": "setup/bib-templates",
+  "folder": "md/"
+}
